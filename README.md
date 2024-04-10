@@ -58,7 +58,6 @@
 - Qwen-VL- A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond
 - RAGAS- Automated Evaluation of Retrieval Augmented Generation
 - REAC T- SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS
-- README.md
 - REPLUG- Retrieval-Augmented Black-Box Language Models
 - ReALM Reference Resolution As Language Modeling
 - Reinforced Self-Training (ReST) for Language Modeling
@@ -77,4 +76,4 @@
 - V-IRL
 - VOYAGER An Open-Ended Embodied Agent with Large Language Models
 - WizardLM- Empowering Large Language Models to Follow Complex Instructions
-- dex.txt
+
