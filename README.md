@@ -8,6 +8,11 @@
 - A.I.
 
 ---
+- Hidden Markov and semi-Markov models- When and why are these models useful for classifying states in time series data?
+- Image Segmentation Using Text and Image Prompts
+- Neural Bellman-Ford Networks- A General Graph Neural Network Framework for Link Prediction
+
+---
 
 - A Survey of Knowledge Graph Embedding and Their Applications
 - Active Retrieval Augmented Generation
